@@ -1,0 +1,45 @@
+{
+    "name": "root",
+    "type": "folder",
+    "children": [
+      {
+        "name": "Documents",
+        "type": "folder",
+        "children": [
+          {
+            "name": "Resume.docx",
+            "type": "file"
+          },
+          {
+            "name": "CoverLetter.docx",
+            "type": "file"
+          }
+        ]
+      },
+      {
+        "name": "Pictures",
+        "type": "folder",
+        "children": [
+          {
+            "name": "Vacation",
+            "type": "folder",
+            "children": [
+              {
+                "name": "Beach.png",
+                "type": "file"
+              },
+              {
+                "name": "Mountains.png",
+                "type": "file"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "App.js",
+        "type": "file"
+      }
+    ]
+  }
+  
